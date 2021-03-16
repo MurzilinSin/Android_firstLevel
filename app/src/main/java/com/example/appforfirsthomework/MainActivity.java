@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
     private CheckBox checkBox;
     private CheckBox checkBox2;
     private ScrollView scrollView;
-
+    //Первое домашнее задание
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

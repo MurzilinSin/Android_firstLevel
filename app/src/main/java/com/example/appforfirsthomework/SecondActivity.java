@@ -9,6 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class SecondActivity extends AppCompatActivity {
     Button btnBack;
+    //Первое домашнее задание
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
