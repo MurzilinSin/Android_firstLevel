@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">appForFirstHomeWork</string>
+    <string name="hint_enter_text">Enter text here</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="your_text_will_be_here">Your text will be here!</string>
+    <string name="press_me">Press me</string>
+    <string name="toggle_button">ToggleButton</string>
+    <string name="sentence_choice">Как вам наше приложение?\n(Выберите минимум 2 варианта)</string>
+    <string name="best_app">Самое лучшее приложение!</string>
+    <string name="cool_app">Очень крутое приложение!</string>
+    <string name="jump_next_app_screen">Перейти ко 2 заданию</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="enter_number">Введите номер телефона</string>
+    <string name="enter_pass">Введите пароль</string>
+    <string name="enter_mail">Введите почту</string>
+    <string name="jump_back">Вернуться назад</string>
+</resources>
