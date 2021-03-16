@@ -17,12 +17,14 @@
             android:hint="@string/enter_text"
             android:layout_marginRight="15dp"
             android:layout_marginTop="25dp"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="15dp"
+            android:inputType="text"/>
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/enter_name"
+            android:inputType="text"
             android:layout_marginRight="15dp"
             android:layout_marginTop="15dp"
             android:layout_marginLeft="15dp"/>
@@ -34,7 +36,8 @@
             android:hint="@string/enter_number"
             android:layout_marginRight="15dp"
             android:layout_marginTop="15dp"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="15dp"
+            android:inputType="number"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -42,7 +45,8 @@
             android:hint="@string/enter_pass"
             android:layout_marginRight="15dp"
             android:layout_marginTop="15dp"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="15dp"
+            android:inputType="textPassword"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -50,7 +54,8 @@
             android:hint="@string/enter_mail"
             android:layout_marginRight="15dp"
             android:layout_marginTop="15dp"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="15dp"
+            android:inputType="textEmailAddress"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -58,7 +63,8 @@
             android:hint="@string/enter_text"
             android:layout_marginRight="15dp"
             android:layout_marginTop="15dp"
-            android:layout_marginLeft="15dp"/>
+            android:layout_marginLeft="15dp"
+            android:inputType="text"/>
 
         <CalendarView
             android:layout_width="376dp"
